@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Matrix Book';
+    src: url('.././font/Martrix-Book.eot');
+    src: url('.././font/Martrix-Book.eot?#iefix') format('embedded-opentype'),
+         url('.././font/Martrix-Book.woff2') format('woff2'),
+         url('.././font/Martrix-Book.woff') format('woff'),
+         url('.././font/Martrix-Book.ttf') format('truetype'),
+         url('.././font/Martrix-Book.otf') format('opentype'),'
+         url('.././font/Martrix-Book.svg') format('svg');
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Matrix Book';
+    src: url('.././font/Martrix-Book.eot');
+    src: url('.././font/Martrix-Book.eot?#iefix') format('embedded-opentype'),
+         url('.././font/Martrix-Book.woff2') format('woff2'),
+         url('.././font/Martrix-Book.woff') format('woff'),
+         url('.././font/Martrix-Book.ttf') format('truetype'),
+         url('.././font/Martrix-Book.otf') format('opentype'),'
+         url('.././font/Martrix-Book.svg') format('svg');
+    font-style: italic;
+}
