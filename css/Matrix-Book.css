@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'Matrix Book';
+    font-family: Matrix-Book;
     src: url('.././font/Martrix-Book.eot');
     src: url('.././font/Martrix-Book.eot?#iefix') format('embedded-opentype'),
          url('.././font/Martrix-Book.woff2') format('woff2'),
@@ -11,7 +11,7 @@
 }
 
 @font-face {
-    font-family: 'Matrix Book';
+    font-family: Matrix-Book;
     src: url('.././font/Martrix-Book.eot');
     src: url('.././font/Martrix-Book.eot?#iefix') format('embedded-opentype'),
          url('.././font/Martrix-Book.woff2') format('woff2'),
